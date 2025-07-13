@@ -1,0 +1,51 @@
+order_id,customer_id,product_name,category,price,quantity,total_amount,order_date,customer_age,customer_gender,customer_location,payment_method,shipping_method,product_rating,sales_rep
+1001,C001,Wireless Headphones,Electronics,89.99,2,179.98,2023-01-15,28,Male,New York,Credit Card,Standard,4.5,John Smith
+1002,C002,Running Shoes,Sports,129.99,1,129.99,2023-01-16,34,Female,California,PayPal,Express,4.2,Sarah Johnson
+1003,C003,Coffee Maker,Home & Kitchen,199.99,1,199.99,2023-01-17,45,Male,Texas,Debit Card,Standard,4.8,Mike Davis
+1004,C004,Smartphone Case,Electronics,24.99,3,74.97,2023-01-18,25,Female,Florida,Credit Card,Express,4.1,Emily Wilson
+1005,C005,Yoga Mat,Sports,39.99,1,39.99,2023-01-19,32,Female,Washington,PayPal,Standard,4.6,David Brown
+1006,C006,Laptop Stand,Electronics,79.99,1,79.99,2023-01-20,29,Male,Oregon,Credit Card,Express,4.3,Lisa Anderson
+1007,C007,Protein Powder,Health & Fitness,49.99,2,99.98,2023-01-21,27,Male,Nevada,Debit Card,Standard,4.4,Tom Martinez
+1008,C008,Dress,Fashion,89.99,1,89.99,2023-01-22,31,Female,Arizona,PayPal,Express,4.7,Jennifer Taylor
+1009,C009,Kitchen Knife Set,Home & Kitchen,159.99,1,159.99,2023-01-23,38,Male,Colorado,Credit Card,Standard,4.9,Robert Garcia
+1010,C010,Bluetooth Speaker,Electronics,69.99,1,69.99,2023-01-24,26,Female,Utah,PayPal,Express,4.2,Mary Rodriguez
+1011,C011,Basketball,Sports,29.99,2,59.98,2023-01-25,24,Male,Illinois,Credit Card,Standard,4.3,Kevin Lee
+1012,C012,Face Cream,Beauty,34.99,1,34.99,2023-01-26,35,Female,Michigan,Debit Card,Express,4.5,Amanda White
+1013,C013,Gaming Mouse,Electronics,59.99,1,59.99,2023-01-27,22,Male,Ohio,PayPal,Standard,4.6,Chris Thompson
+1014,C014,Backpack,Fashion,79.99,1,79.99,2023-01-28,30,Female,Georgia,Credit Card,Express,4.1,Jessica Hall
+1015,C015,Vitamins,Health & Fitness,29.99,3,89.97,2023-01-29,42,Male,North Carolina,PayPal,Standard,4.4,Daniel Clark
+1016,C016,Tablet,Electronics,299.99,1,299.99,2023-01-30,33,Female,Virginia,Credit Card,Express,4.7,Ashley Lewis
+1017,C017,Tennis Racket,Sports,149.99,1,149.99,2023-01-31,28,Male,Tennessee,Debit Card,Standard,4.8,Ryan Walker
+1018,C018,Perfume,Beauty,79.99,1,79.99,2023-02-01,29,Female,Indiana,PayPal,Express,4.3,Nicole Allen
+1019,C019,Office Chair,Home & Kitchen,199.99,1,199.99,2023-02-02,36,Male,Missouri,Credit Card,Standard,4.5,Brandon Young
+1020,C020,Skincare Set,Beauty,89.99,1,89.99,2023-02-03,31,Female,Wisconsin,PayPal,Express,4.6,Stephanie King
+1021,C021,Smartwatch,Electronics,249.99,1,249.99,2023-02-04,27,Male,Minnesota,Credit Card,Standard,4.4,Justin Wright
+1022,C022,Dumbbells,Sports,79.99,2,159.98,2023-02-05,34,Female,Iowa,Debit Card,Express,4.7,Rachel Lopez
+1023,C023,Blender,Home & Kitchen,89.99,1,89.99,2023-02-06,40,Male,Kansas,PayPal,Standard,4.2,Matthew Hill
+1024,C024,Jeans,Fashion,59.99,2,119.98,2023-02-07,25,Female,Arkansas,Credit Card,Express,4.8,Lauren Green
+1025,C025,Power Bank,Electronics,39.99,1,39.99,2023-02-08,32,Male,Oklahoma,PayPal,Standard,4.3,Tyler Adams
+1026,C026,Mascara,Beauty,19.99,2,39.98,2023-02-09,28,Female,Connecticut,Credit Card,Express,4.5,Megan Baker
+1027,C027,Soccer Ball,Sports,24.99,1,24.99,2023-02-10,23,Male,Nevada,Debit Card,Standard,4.1,Alexander Nelson
+1028,C028,Air Purifier,Home & Kitchen,179.99,1,179.99,2023-02-11,37,Female,Delaware,PayPal,Express,4.9,Samantha Carter
+1029,C029,Gaming Keyboard,Electronics,89.99,1,89.99,2023-02-12,26,Male,Hawaii,Credit Card,Standard,4.6,Jonathan Mitchell
+1030,C030,Lipstick,Beauty,24.99,3,74.97,2023-02-13,30,Female,Alaska,PayPal,Express,4.4,Victoria Perez
+1031,C031,Treadmill,Sports,899.99,1,899.99,2023-02-14,41,Male,Maine,Credit Card,Standard,4.8,Gregory Roberts
+1032,C032,Cookware Set,Home & Kitchen,149.99,1,149.99,2023-02-15,35,Female,Vermont,Debit Card,Express,4.7,Brittany Turner
+1033,C033,Monitor,Electronics,199.99,1,199.99,2023-02-16,29,Male,New Hampshire,PayPal,Standard,4.3,Joshua Phillips
+1034,C034,Handbag,Fashion,119.99,1,119.99,2023-02-17,33,Female,Rhode Island,Credit Card,Express,4.2,Danielle Campbell
+1035,C035,Protein Bar,Health & Fitness,2.99,10,29.90,2023-02-18,24,Male,Montana,PayPal,Standard,4.5,Andrew Parker
+1036,C036,Electric Toothbrush,Beauty,79.99,1,79.99,2023-02-19,31,Female,Wyoming,Credit Card,Express,4.6,Kimberly Evans
+1037,C037,Gaming Console,Electronics,399.99,1,399.99,2023-02-20,22,Male,North Dakota,Debit Card,Standard,4.9,Jacob Edwards
+1038,C038,Workout Leggings,Sports,49.99,2,99.98,2023-02-21,26,Female,South Dakota,PayPal,Express,4.4,Alexis Collins
+1039,C039,Food Processor,Home & Kitchen,129.99,1,129.99,2023-02-22,39,Male,Nebraska,Credit Card,Standard,4.7,Noah Stewart
+1040,C040,Sunglasses,Fashion,89.99,1,89.99,2023-02-23,28,Female,Idaho,PayPal,Express,4.1,Kayla Sanchez
+1041,C041,Fitness Tracker,Electronics,149.99,1,149.99,2023-02-24,33,Male,West Virginia,Credit Card,Standard,4.8,Ethan Morris
+1042,C042,Foundation,Beauty,39.99,1,39.99,2023-02-25,27,Female,Mississippi,Debit Card,Express,4.3,Olivia Rogers
+1043,C043,Golf Clubs,Sports,299.99,1,299.99,2023-02-26,45,Male,Alabama,PayPal,Standard,4.6,Liam Reed
+1044,C044,Vacuum Cleaner,Home & Kitchen,199.99,1,199.99,2023-02-27,36,Female,South Carolina,Credit Card,Express,4.5,Sophia Cook
+1045,C045,Webcam,Electronics,79.99,1,79.99,2023-02-28,25,Male,Kentucky,PayPal,Standard,4.2,William Bailey
+1046,C046,Nail Polish,Beauty,12.99,4,51.96,2023-03-01,29,Female,Louisiana,Credit Card,Express,4.4,Emma Rivera
+1047,C047,Baseball Glove,Sports,59.99,1,59.99,2023-03-02,31,Male,New Mexico,Debit Card,Standard,4.7,Mason Cooper
+1048,C048,Coffee Grinder,Home & Kitchen,89.99,1,89.99,2023-03-03,34,Female,Oregon,PayPal,Express,4.1,Ava Richardson
+1049,C049,External Hard Drive,Electronics,99.99,1,99.99,2023-03-04,30,Male,Washington,Credit Card,Standard,4.8,Logan Cox
+1050,C050,Shampoo,Beauty,19.99,2,39.98,2023-03-05,28,Female,California,PayPal,Express,4.3,Isabella Ward 
